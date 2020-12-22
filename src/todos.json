@@ -1,0 +1,22 @@
+{
+  "todos":[
+    {
+      "title":"task1",
+      "responsable":"Paola",
+      "descripcion":"practicando react",
+      "prioridad":"Alta"
+    },
+    {
+      "title":"task2",
+      "responsable":"Hansel",
+      "descripcion":"practicando react",
+      "prioridad":"Media"
+    },
+    {
+      "title":"task3",
+      "responsable":"Isaac",
+      "descripcion":"practicando react",
+      "prioridad":"Alta"
+    }
+  ]
+}
